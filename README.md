@@ -174,14 +174,8 @@ For questions or issues:
 
 ---
 
-## Resume Description
-
-**Historical Market Data Analysis & Volatility Study**
-
-Developed a quantitative finance analysis tool in Python to process historical market data and calculate key financial metrics. Implemented time-series analysis techniques using Pandas and NumPy to compute daily returns, moving averages, rolling volatility, and maximum drawdown. Engineered data visualization pipelines using Matplotlib to present price trends, volatility dynamics, and risk metrics. Demonstrated practical understanding of quantitative finance principles including volatility measurement, risk-adjusted performance evaluation (Sharpe ratio), and drawdown analysis—core concepts in portfolio risk management and financial engineering.
-
 ---
 
 **License**: MIT  
-**Author**: [Your Name]  
-**Last Updated**: 2024
+**Author**: [Ankit Kumar]  
+**Last Updated**: 2026
